@@ -1,0 +1,10 @@
+{
+  "name": "greentrust-mobile",
+  "version": "0.1.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.71.0",
+    "expo": "^49.0.0"
+  }
+}
