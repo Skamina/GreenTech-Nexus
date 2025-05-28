@@ -6,7 +6,7 @@ Author: Ibrahim Aliyu S Kamina
 Tagline: Tokenizing Carbon and Biodiversity for a Sustainable, Inclusive Future  
 © 2025 Ibrahim Aliyu S Kamina GreenTrust Nexus. All rights reserved.
 
-*(Contents as provided in your original whitepaper. For brevity, see the main prompt or [full version here](../README.md))*
+ [full version here](../README.md))*
 
 ---
 
