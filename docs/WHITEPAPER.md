@@ -1,19 +1,4 @@
-# GreenTrust Nexus Whitepaper
-
-**First Edition**  
-Date: February 20, 2025  
-Author: Ibrahim Aliyu S Kamina  
-Tagline: Tokenizing Carbon and Biodiversity for a Sustainable, Inclusive Future  
-© 2025 Ibrahim Aliyu S Kamina GreenTrust Nexus. All rights reserved.
-
- [full version here](../README.md))*
-
----
-
-## Abstract
-
-GreenTrust Nexus is a pioneering Web3 platform integrating blockchain, IoT, and AI to create a decentralized, transparent ecosystem for addressing climate change and biodiversity loss...
-<!-- (GreenTrust Nexus Whitepaper
+GreenTrust Nexus Whitepaper
 
 First EditionDate: February 20, 2025
 Author: Ibrahim Aliyu S Kamina, 
@@ -227,4 +212,4 @@ Appendix
 
 References: IPCC 2022, IPBES 2019, BloombergNEF 2023, WEF 2023.
 Technical Docs: Available Q? 2025.
-Contact: ibrahimaskamina@gmail.com, greentrustnexus.com.    ) -->
+Contact: ibrahimaskamina@gmail.com
